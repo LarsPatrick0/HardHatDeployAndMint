@@ -26,6 +26,6 @@ npx hardhatb compile
 
 npx hardhat run scripts/deploy.js --network polygon_mumbai
 
-returns address of contract = xdbe9C3aFfdbB7ae9Bd9065A25e8a8f8e655cd953
+returns address of contract to update once deployed
 
 npx hardhat run scripts/mint.js --network polygon_mumbai
